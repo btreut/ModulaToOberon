@@ -19,9 +19,11 @@ simulates some basic features of V4's Texts. It is a standard BlackBox document.
 If M2S.Eth and Modula.Eth are stored in Linz-V4 this should be done with version 
 element set to CP and fully expanded.
 
-Files: Priv/Docu/Modula.odc
-		Priv/Mod/M2S.Eth Priv/Mod/Modula.Eth 
-		Priv/Mod/Texts.odc Priv/Mod/ErrM2OtoBB.odc
+Files:	Priv/Docu/Modula.odc
+	Priv/Mod/M2S.Eth Priv/Mod/Modula.Eth 
+	Priv/Mod/Texts.odc Priv/Mod/ErrM2OtoBB.odc
+	Priv/Mod/M2S.Eth
+	Priv/Mod/Texts.odc
 
 Revision History:
 	
